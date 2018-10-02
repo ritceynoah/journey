@@ -1,0 +1,6 @@
+t=(1,2,3,4,5,6,7,8,'apple','orange')
+print(t)
+l=list(t)
+l.remove('apple')
+l.remove(1)
+print(l)
